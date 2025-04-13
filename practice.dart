@@ -1,20 +1,25 @@
-void main ()
-{
-    int a =-10;
-    int b =10;
+// void main ()
+// {
+//     int a =-10;
+//     int b =10;
 
-if(a==b){
-    print("a is equal to b");
+// if(a==b){
+//     print("a is equal to b");
 
-}else {
+// }else {
 
-    if(true){
-        print("nested if");
-    }
-    else {
-        print("nested ekse");
+//     if(true){
+//         print("nested if");
+//     }
+//     else {
+//         print("nested ekse");
 
-    }
-    print("a is not equal to b");
-}
+//     }
+//     print("a is not equal to b");
+// }
+// }
+
+void main(){
+    List stdnames =["Hadi , Ali, Bilal , Umar"];
+    print(stdnames);
 }
