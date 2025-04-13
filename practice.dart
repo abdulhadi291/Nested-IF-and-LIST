@@ -28,4 +28,7 @@ void main(){
     stdnames.addAll(["zain" , "shahryar"]); //  to add multiple names in list
     print(stdnames.length);
     print(stdnames);
+    stdnames.clear();    // to clear the list
+    print(stdnames);
+
 }
